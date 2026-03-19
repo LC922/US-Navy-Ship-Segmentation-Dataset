@@ -54,6 +54,10 @@ USNSD_COCO/
 └── README.md
 ```
 
+数据开源
+📦 Dataset Download: Hosted on Hugging Face Datasets for fast and direct access.
+https://huggingface.co/datasets/LC922/US_Navy_Ship_Segmentation_Dataset
+
 ## 📜 License / 许可协议
 
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
